@@ -1,12 +1,12 @@
 {
   "app": "LA Beat",
-  "version_name": "1.0.4",
-  "version_code": "5",
-  "apk": "apk/la-beat-v1.0.4+5-11d7d94.apk",
+  "version_name": "1.0.5",
+  "version_code": "6",
+  "apk": "apk/la-beat-v1.0.5+6-849ccfb.apk",
   "latest": "apk/la-beat-latest.apk",
   "source_repository": "dausdashsan/la_beat_mobile",
   "source_branch": "release",
-  "source_sha": "11d7d94aa88666aee1e384210affccd4785c7e7e",
-  "run_number": "5",
-  "run_id": "27831853962"
+  "source_sha": "849ccfb7694e8c00f11e1e84da5ece17bd7e5ad2",
+  "run_number": "6",
+  "run_id": "27863103735"
 }
